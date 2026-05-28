@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1, 
+        "categorie": "F1", 
+        "libelle": "Qui a remporté le championnat F1 2023 ?", 
+        "options": ["Verstappen", "Hamilton", "Alonso", "Leclerc"], 
+        "bonne_reponse": "Verstappen" 
+    },
+    { 
+        "id": 2, 
+        "categorie": "F1", 
+        "libelle": "Quelle écurie domine la F1 depuis 2021 ?", 
+        "options": ["Ferrari", "Mercedes", "Red Bull", "McLaren"], 
+        "bonne_reponse": "Red Bull" 
+    },
+    { 
+        "id": 3, 
+        "categorie": "MotoGP", 
+        "libelle": "Qui est le recordman de titres MotoGP ?", 
+        "options": ["Rossi", "Marquez", "Lorenzo", "Pedrosa"],
+        "bonne_reponse": "Marquez" 
+    },
+    { 
+        "id": 4, 
+        "categorie": "NBA", 
+        "libelle": "Quelle équipe a gagné le titre NBA 2023 ?", 
+        "options": ["Lakers", "Celtics", "Nuggets", "Heat"], 
+        "bonne_reponse": "Nuggets" 
+    },
+    { 
+        "id": 5, 
+        "categorie": "NBA", 
+        "libelle": "Quel joueur détient le record de points NBA all-time ?", 
+        "options": ["Jordan", "Kareem", "LeBron", "Kobe"], 
+        "bonne_reponse": "LeBron" 
+    },
+    { 
+        "id": 6, 
+        "categorie": "Manga", 
+        "libelle": "Qui est l'auteur de One Piece ?", 
+        "options": ["Toriyama", "Oda", "Kishimoto", "Kubo"], 
+        "bonne_reponse": "Oda" 
+    },
+    { 
+        "id": 7, 
+        "categorie": "Manga", 
+        "libelle": "Dans quel manga trouve-t-on les Titans ?", 
+        "options": ["Naruto", "Bleach", "L'Attaque des Titans", "HxH"], 
+        "bonne_reponse": "L'Attaque des Titans" 
+    },
+    { 
+        "id": 8, 
+        "categorie": "Anime", 
+        "libelle": "Quel studio a créé Spirited Away ?", 
+        "options": ["Toei", "Gainax", "Ghibli", "Kyoto Animation"], 
+        "bonne_reponse": "Ghibli" },
+    { 
+        "id": 9, 
+        "categorie": "MotoGP", 
+        "libelle": "Sur quel circuit se déroule le GP de France ?", 
+        "options": ["Barcelone", "Mugello", "Le Mans", "Circuit de Nevers Magny-Cours"], 
+        "bonne_reponse": "Le Mans" 
+    },
+    { 
+        "id": 10, 
+        "categorie": "Anime", 
+        "libelle": "Quel est le vrai nom de Light Yagami dans l'anime ?", 
+        "options": ["Death Note", "Kira", "Light Yagami", "L"], 
+        "bonne_reponse": "Light Yagami" 
+    }
+]
